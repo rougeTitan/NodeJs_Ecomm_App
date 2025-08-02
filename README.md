@@ -371,5 +371,3 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 - All contributors to the open-source packages used in this project
 
 ---
-
-**Note**: This project is part of a Node.js learning course and demonstrates best practices for building production-ready web applications with Node.js and Express.
